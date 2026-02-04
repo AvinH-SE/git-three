@@ -1,3 +1,2 @@
-print "Hello World"
-
-int x = 10;
+print ("Hello World")
+x = 5;
